@@ -1,1 +1,1 @@
-# CPI-vs-S-P-500-Statistical-Relationship-Analysis
+# CPI vs S&P-500: Statistical Relationship Analysis
